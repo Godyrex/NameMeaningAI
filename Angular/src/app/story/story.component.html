@@ -1,0 +1,16 @@
+
+<div class="container">
+    <div class="row">
+      <div class="col-sm-8 col-sm-offset-2">
+        <h4 class="font-alt mb-0">Name Meaning</h4>
+        <hr class="divider-w mt-10 mb-20">
+          <div class="form-group">
+            <input [(ngModel)]="name" class="form-control input-lg" type="text" placeholder="Type your name here"/>
+          </div>
+          <button class="btn btn-g btn-round" (click)="saveNamee()">Generate</button>
+             <div *ngIf="responseMessage">
+        <p>{{ responseMessage }}</p>
+      </div>
+      </div>
+    </div>
+  </div>
