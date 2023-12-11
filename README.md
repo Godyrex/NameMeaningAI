@@ -1,0 +1,2 @@
+# NameMeaningAI
+ NameMeaningAI is a project that leverages Angular, Spring Boot, and Python to generate meaningful interpretations for given names using an advanced AI model. The application combines the power of modern web development (Angular), robust backend services (Spring Boot), and the flexibility of Python for AI processing to deliver an intuitive and insightful tool for exploring the meanings behind names.
