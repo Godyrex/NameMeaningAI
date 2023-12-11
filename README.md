@@ -28,7 +28,7 @@ NameMeaningAI is a project that leverages Angular, Spring Boot, and Python to ge
 - MySQL for data storage.
 
 ### Installation
-1. Clone the repository: `git clone [repository_url]`
+1. Clone the repository: `git clone https://github.com/Godyrex/NameMeaningAI.git`
 2. Install dependencies: `npm install` for Angular, and follow instructions for Spring Boot, Python, and MySQL components.
 3. Run the application: `ng serve` for Angular, deploy the Spring Boot backend, and set up the MySQL database.
 
